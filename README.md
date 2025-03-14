@@ -6,4 +6,3 @@ PCA降维——get_AC.py
 权重转换——regressw_AC.py  
 混合线性模型——CommonNeuralChoiceSignals_Study1.ipynb  
 ERP绘图——mne_erp_plot.ipynb  
-输出数据——output  
